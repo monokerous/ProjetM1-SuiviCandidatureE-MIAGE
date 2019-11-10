@@ -4,13 +4,15 @@
 Pour lancer les tests :
 --> ce placer dans tests : lancer la commande npm test
 
+   Projet Réalisé en groupe de 3 : Jeanne BERTOUX, Damien DONNADIEU et Tanguy ROUE
+   Lien du projet d'origine : https://github.com/ProjetM1-SuiviCandidatureE-MIAGE
+
 
 
 # Suivi-candidature-E-MIAGE
 							Cahier des Charges :
 							projet  site de candidature E-MIAGE
-              Projet Réalisé en groupe de 3 : Jeanne BERTOUX, Damien DONNADIEU et Tanguy ROUE
-	      Lien du projet d'origine : https://github.com/ProjetM1-SuiviCandidatureE-MIAGE
+       
 							
 
 **I / Présentation du projet**
